@@ -1,5 +1,6 @@
 .centerImg{
   text-align: center;
+  line-height: inherit;
 }
 .cut{
   text-decoration: line-through;
