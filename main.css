@@ -5,8 +5,8 @@
 .cut{
   text-decoration: line-through;
 }
-body{
-  background-image: url(images/pic5.png);
+.container{
+  background-image: url(images/pic6.png);
   background-repeat: no-repeat;
-  background-size: 100% 194%;
+  background-size: 100% 160%;
 }
