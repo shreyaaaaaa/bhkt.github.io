@@ -1,6 +1,7 @@
 .centerImg{
   text-align: center;
   line-height: inherit;
+  font-family: cursive;
 }
 .cut{
   text-decoration: line-through;
@@ -8,5 +9,5 @@
 .container{
   background-image: url(images/pic6.png);
   background-repeat: no-repeat;
-  background-size: 100% 160%; 
+  background-size: 100% 160%;
 }
