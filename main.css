@@ -34,13 +34,5 @@
   border-color: #FF0000;
 }
 .mqImg{
-  text-align: center;
-  line-height: inherit;
-  font-family: cursive;
-  position: absolute;
-  top: 25%;
-  left: 50%;
-  transform: translate(-50%, -35%);
-  z-index: 2;
-  color: white;
+
 }
