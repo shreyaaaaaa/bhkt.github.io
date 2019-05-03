@@ -16,12 +16,8 @@
   background-image: url(images/pic4.png);
   background-repeat: no-repeat;
   background-size: 100%;
-  height: 100%;
+  height: 120%;
   opacity: 0.8;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 .myspace-marquee{
   height: 35px;
